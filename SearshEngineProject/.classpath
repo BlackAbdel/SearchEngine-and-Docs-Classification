@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/AlKhalil.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/ArabicAnalyzer-1.0b.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/jython-standalone-2.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/khojastemmer.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/lucene-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/MADAMIRA-release-20140825-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/motaz-stemmer.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/SAFAR_v2.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/stanford-parser-3.2.0-models.jar"/>
+	<classpathentry kind="lib" path="E:/S3-TextMining/jars/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
